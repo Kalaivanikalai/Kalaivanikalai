@@ -64,6 +64,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalaivanikalai&show_icons=true&locale=en&layout=compact" alt="kalaivanikalai" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalaivanikalai&show_icons=true&locale=en" alt="kalaivanikalai" /></p>
 
-<p></p>
