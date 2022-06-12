@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalaivani</h1>
-<h3 align="center">A passionate Full Stack Developer from India from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
 - 👨‍💻 All of my projects are available at
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **kalaivanipalanisamy98@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaivanikalai&label=Profile%20views&color=0e75b6&style=flat" alt="kalaivanikalai" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaivanikalai&label=Profile%20views&color=0e75b6&style=flat" alt="kalaivanikalai" /> </p> -->
 
 
 
