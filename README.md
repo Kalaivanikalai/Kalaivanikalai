@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Web development , MERN**
 
-- 📫 How to reach me **kalaivanipalanisamy98@gmail.com**
+<!-- - 📫 How to reach me **kalaivanipalanisamy98@gmail.com** -->
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalaivanikalai&label=Profile%20views&color=0e75b6&style=flat" alt="kalaivanikalai" /> </p> -->
 
