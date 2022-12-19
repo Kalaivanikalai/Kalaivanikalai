@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Kalaivani</h1>
+<!-- <h1 align="center">Hi 👋, I'm Kalaivani</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 
 - 👨‍💻 All of my projects are available at
 [https://kalaivaniportfolio.netlify.app/](https://kalaivaniportfolio.netlify.app/)
 
-- 💬 Ask me about **Web development , MERN**
+- 💬 Ask me about **Web development , MERN** -->
 
 <!-- - 📫 How to reach me **kalaivanipalanisamy98@gmail.com** -->
 
@@ -14,7 +14,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://linkedin.com/in/kalaivani-palanisamy-52aa95184" target="blank">
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"          alt="kalaivani-palanisamy-52aa95184" height="30" width="40" /></a>
@@ -59,6 +59,6 @@
             height="40" /> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalaivanikalai&show_icons=true&locale=en&layout=compact" alt="kalaivanikalai" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalaivanikalai&show_icons=true&locale=en&layout=compact" alt="kalaivanikalai" /></p> -->
 
 
